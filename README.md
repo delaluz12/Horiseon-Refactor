@@ -5,4 +5,4 @@ An accessibility website update for client and SEO Company, Horiseon. The update
 
 [Deployed Site](https://delaluz12.github.io/Horiseon-Refactor/)
 
-[Site Repository](https://delaluz12.github.io/Horiseon-Refactor/)
+[Site Repository](https://github.com/delaluz12/Horiseon-Refactor)
